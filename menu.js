@@ -35,6 +35,7 @@ se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
 ┋  😎 𝘾𝙍𝙄𝘼𝘿𝙊𝙍 😎
 ┋
+┋ ${p}blocklevel (1 or 0) 
 ┋ ${p}blockcmd (cmd sem prefix) 
 ┋ ${p}unblockcmd (cmd sem prefix) 
 ┋ ${p}antispamcmd (1 or 0) 
