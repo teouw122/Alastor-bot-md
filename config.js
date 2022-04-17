@@ -10,7 +10,7 @@ const menuimg = 'https://i.imgur.com/2KJfprY.jpg'
 const registeruser = false
 // Se é obrigatório o usuário se registrar para usar os comandos
 
-const callbotmsgs = ['orion', 'brizas']
+const callbotmsgs = ['bot', 'alastor']
 
 var gimagenotregister = false
 // quando não há comando registrado o bot procura no google image

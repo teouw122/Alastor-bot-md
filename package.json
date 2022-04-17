@@ -10,6 +10,7 @@
     "aki-api": "^6.0.8",
     "axios": "^0.22.0",
     "cfonts": "^2.10.0",
+    "cheerio": "^1.0.0-rc.10",
     "crypto": "^1.0.1",
     "currency-converter-lt": "^1.2.4",
     "fake-useragent": "^1.0.1",

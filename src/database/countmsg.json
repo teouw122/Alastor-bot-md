@@ -104,7 +104,7 @@
     "numbers": [
       {
         "jid": "",
-        "messages": 32,
+        "messages": 318,
         "cmd_messages": 5
       },
       {
@@ -129,8 +129,8 @@
       },
       {
         "jid": "557187645787@s.whatsapp.net",
-        "messages": 94,
-        "cmd_messages": 69
+        "messages": 419,
+        "cmd_messages": 383
       },
       {
         "jid": "557187645787:4@s.whatsapp.net",
@@ -141,6 +141,11 @@
         "jid": "557193772422:10@s.whatsapp.net",
         "messages": 2,
         "cmd_messages": 0
+      },
+      {
+        "jid": "16027425905@s.whatsapp.net",
+        "messages": 20,
+        "cmd_messages": 19
       }
     ]
   },
@@ -166,6 +171,126 @@
         "jid": "558183064666@s.whatsapp.net",
         "messages": 1,
         "cmd_messages": 0
+      }
+    ]
+  },
+  {
+    "groupId": "120363023941931428@g.us",
+    "numbers": [
+      {
+        "jid": "557488535088@s.whatsapp.net",
+        "messages": 52,
+        "cmd_messages": 2
+      },
+      {
+        "jid": "559183274606@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "79615640783@s.whatsapp.net",
+        "messages": 5,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "557499896089@s.whatsapp.net",
+        "messages": 73,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "558296126419@s.whatsapp.net",
+        "messages": 6,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "558498281085@s.whatsapp.net",
+        "messages": 13,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "351919911991@s.whatsapp.net",
+        "messages": 29,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "558183064666@s.whatsapp.net",
+        "messages": 52,
+        "cmd_messages": 2
+      },
+      {
+        "jid": "558299695883@s.whatsapp.net",
+        "messages": 7,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "",
+        "messages": 5,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "558694726271@s.whatsapp.net",
+        "messages": 4,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "557187645787@s.whatsapp.net",
+        "messages": 25,
+        "cmd_messages": 5
+      },
+      {
+        "jid": "557491170146@s.whatsapp.net",
+        "messages": 11,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "559887583208@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "559284802764@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "559193564949@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0
+      }
+    ]
+  },
+  {
+    "groupId": "557193772422-1614769521@g.us",
+    "numbers": [
+      {
+        "jid": "557187645787@s.whatsapp.net",
+        "messages": 5,
+        "cmd_messages": 3
+      },
+      {
+        "jid": "557193772422@s.whatsapp.net",
+        "messages": 7,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "351926679848@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "393485871754@s.whatsapp.net",
+        "messages": 5,
+        "cmd_messages": 5
+      },
+      {
+        "jid": "557491170146@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "558293232157@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 3
       }
     ]
   }
