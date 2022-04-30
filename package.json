@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.0.0",
+    "@adiwajshing/baileys": "^4.1.0",
     "@hapi/boom": "^9.1.4",
     "@types/webgl-ext": "^0.0.32",
     "aki-api": "^6.0.8",
@@ -24,6 +24,7 @@
     "multistream": "^4.1.0",
     "node-cron": "^3.0.0",
     "node-fetch": "^2.6.5",
+    "node-id3": "^0.2.3",
     "performance-now": "^2.1.0",
     "pino": "^6.13.3",
     "pm2": "^5.1.2",

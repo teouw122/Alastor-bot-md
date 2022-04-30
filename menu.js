@@ -33,6 +33,38 @@ se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 ╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
 
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
+┋  🎵 𝘼𝙐𝘿𝙄𝙊 🎵
+┋
+┋ ${p}gtts (la) (txt) 
+┋ ${p}lyrics 
+┋ ${p}ptlyrics  
+┋ ${p}play (music name) 
+┋ ${p}p (music name)
+┋ ${p}playmp4 (music name) 
+┋ ${p}pmp4 (music name)
+┋ ${p}tomp3 (cap, resp vid) 
+┋ ${p}ytmp4 (yt url) 
+┋ ${p}ytmp3 (yt url) 
+┋ ${p}ytsrc (query) 
+╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
+
+╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
+┋  ✨ 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 ✨
+┋
+┋ ${p}emoji (emoji1 + emoji2)
+┋ ${p}stiker (leg, resp img) 
+┋ ${p}sticker (leg, resp img) 
+┋ ${p}csticker (leg, resp img) 
+┋ ${p}cstiker (leg, resp img) 
+┋ ${p}fstiker (leg, resp img) 
+┋ ${p}fsticker (leg, resp img) 
+┋ ${p}nstiker (pack) (author) 
+┋ ${p}nsticker (pack) (author) 
+┋ ${p}nfstiker (pack) (author) 
+┋ ${p}nfsticker (pack) (author) 
+╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
+
+╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
 ┋  😎 𝘾𝙍𝙄𝘼𝘿𝙊𝙍 😎
 ┋
 ┋ ${p}blocklevel (1 or 0) 
@@ -43,7 +75,8 @@ se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 ┋ ${p}antiligar (1 or 0)
 ┋ ${p}addpalavra (txt) 
 ┋ ${p}rmpalavra (txt) 
-┋ ${p}block (num) 
+┋ ${p}block (num)
+┋ ${p}msg (reply msg)
 ┋ ${p}unblock (num) 
 ╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
 
@@ -56,6 +89,7 @@ se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 ┋┋ ${p}jogodaforca
 ┋┋ ${p}forca (letter)
 ┋┋ ${p}resetforca
+┋┋ ${p}gimage (text)
 ┋┋ ${p}anagrama
 ┋┋ ${p}ranagram (word)
 ┋┋ ${p}rstanagram
@@ -285,21 +319,6 @@ se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 ╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
 
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
-┋  ✨ 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 ✨
-┋
-┋ ${p}stiker (leg, resp img) 
-┋ ${p}sticker (leg, resp img) 
-┋ ${p}csticker (leg, resp img) 
-┋ ${p}cstiker (leg, resp img) 
-┋ ${p}fstiker (leg, resp img) 
-┋ ${p}fsticker (leg, resp img) 
-┋ ${p}nstiker (pack) (author) 
-┋ ${p}nsticker (pack) (author) 
-┋ ${p}nfstiker (pack) (author) 
-┋ ${p}nfsticker (pack) (author) 
-╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
-
-╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
 ┋  😈 𝙋𝙊𝙍𝙉𝙊 😈
 ┋
 ┋ ${p}packmega18
@@ -323,19 +342,6 @@ se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 ┋ ${p}eroneko
 ┋ ${p}erokitsune 
 ┋ ${p}spank
-╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
-╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
-┋  🎵 𝘼𝙐𝘿𝙄𝙊 🎵
-┋
-┋ ${p}gtts (la) (txt) 
-┋ ${p}lyrics 
-┋ ${p}ptlyrics  
-┋ ${p}play (music name) 
-┋ ${p}playv2 (music name) 
-┋ ${p}tomp3 (cap, resp vid) 
-┋ ${p}ytmp4 (yt url) 
-┋ ${p}ytmp3 (yt url) 
-┋ ${p}ytsrc (query) 
 ╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
 
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
