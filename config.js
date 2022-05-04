@@ -1,7 +1,7 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["393913625887@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '393913625887'  
 // mude para seu numero
 
 const menuimg = 'https://i.imgur.com/2KJfprY.jpg'
@@ -27,7 +27,7 @@ const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
 
 const limitqnt = 9999
 
-const delayantispamcmd = 3
+const delayantispamcmd = 1
 //tempo de delay do antispamcmd (medido por segundos)
 
 const delaystealcmd = 60
@@ -73,7 +73,7 @@ const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
 const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '✟🔥⃢⃟𝘼𝙇𝘼⃟𝙎𝙏𝙊𝙍 𝘽𝙊⃟𝙏🔥✟\n' 
+const cr = '✟🔥Teo bot sesso🔥✟\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
@@ -166,7 +166,7 @@ const numbotfeio = 'Pelo visto alguém aqui quer que eu faça uma visitinha na s
 
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
-    wait: '⌛ Um momento meu jovem... ⌛',
+    wait: '⌛ Aspetta un po... ⌛',
     success: '✔️ Sucesso! ✔️',
     error: {
         stick: '❌ Desculpe-me senhor, mas houve falha ao converter para sticker ❌',
